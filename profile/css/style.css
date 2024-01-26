@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
                                 /* Service background */
 #fh5co-features {
-  background: #a768d6;
+  background: #747275;
 
 }
 #fh5co-features h2 {
@@ -737,7 +737,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 270px;
-  background: #fff;
+  background: #0fbf8a;
   opacity: 0;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
